@@ -34,7 +34,7 @@ This project demonstrates how to implement multi-authentication in a Laravel app
 4. **Generate application key:**
 
     ```sh
-    php artisan key:generate
+    php artisan key: generate
     ```
 
 5. **Run migrations:**
